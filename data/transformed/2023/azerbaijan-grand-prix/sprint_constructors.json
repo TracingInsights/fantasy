@@ -1,0 +1,632 @@
+[
+  {
+    "abbreviation": "ALF",
+    "color": "#900000",
+    "id": "ALF",
+    "nnTotalPoints": 0,
+    "percentOwned": 5,
+    "pointsPerMillion": -1.639344262295082,
+    "price": 6.1,
+    "priceChange": -0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 1,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 5,
+    "racePosition": null,
+    "racePositionsGained": -5,
+    "sessionNnPoints": 9,
+    "sessionPoints": 9,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 8,
+        "points": 8,
+        "text": "5 & 3 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "12th & 16th place"
+      },
+      "positionsGained": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "2 positions gained & 1 position lost"
+      },
+      "totalPoints": {
+        "nnPoints": 9,
+        "points": 9,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 8,
+    "sprintPosition": null,
+    "sprintPositionsGained": 1,
+    "totalPoints": -10,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "ALP",
+    "color": "#0090ff",
+    "id": "ALP",
+    "nnTotalPoints": 25,
+    "percentOwned": 10,
+    "pointsPerMillion": 2.525252525252525,
+    "price": 9.9,
+    "priceChange": 0,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 5,
+    "racePosition": null,
+    "racePositionsGained": 7,
+    "sessionNnPoints": 12,
+    "sessionPoints": 12,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "5 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "13th & 18th place"
+      },
+      "positionsGained": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "4 & 1 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 12,
+        "points": 12,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 7,
+    "sprintPosition": null,
+    "sprintPositionsGained": 5,
+    "totalPoints": 25,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "ALT",
+    "color": "#2b4562",
+    "id": "ALT",
+    "nnTotalPoints": 0,
+    "percentOwned": 2,
+    "pointsPerMillion": -3.7096774193548385,
+    "price": 6.2,
+    "priceChange": -0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 1,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": -2,
+    "sessionNnPoints": 0,
+    "sessionPoints": -11,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": -20,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "4 & 1 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "14th place"
+      },
+      "positionsGained": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "4 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": -11,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 1,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 5,
+    "sprintPosition": null,
+    "sprintPositionsGained": 4,
+    "totalPoints": -23,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "AST",
+    "color": "#006f62",
+    "id": "AST",
+    "nnTotalPoints": 55,
+    "percentOwned": 74,
+    "pointsPerMillion": 7.971014492753623,
+    "price": 6.9,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 4,
+    "racePosition": null,
+    "racePositionsGained": 4,
+    "sessionNnPoints": 12,
+    "sessionPoints": 12,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "3 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "6th & 8th place"
+      },
+      "positionsGained": {
+        "nnPoints": 3,
+        "points": 3,
+        "text": "2 & 1 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 12,
+        "points": 12,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 5,
+    "sprintPosition": null,
+    "sprintPositionsGained": 3,
+    "totalPoints": 55,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "FER",
+    "color": "#dc0000",
+    "id": "FER",
+    "nnTotalPoints": 63,
+    "percentOwned": 25,
+    "pointsPerMillion": 2.850678733031674,
+    "price": 22.1,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 0,
+    "racePosition": null,
+    "racePositionsGained": -3,
+    "sessionNnPoints": 11,
+    "sessionPoints": 11,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "1 overtake made"
+      },
+      "positionPoints": {
+        "nnPoints": 11,
+        "points": 11,
+        "text": "2nd & 5th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "1 position lost"
+      },
+      "totalPoints": {
+        "nnPoints": 11,
+        "points": 11,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 1,
+    "sprintPosition": null,
+    "sprintPositionsGained": -1,
+    "totalPoints": 63,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "HAA",
+    "color": "#ffffff",
+    "id": "HAA",
+    "nnTotalPoints": 17,
+    "percentOwned": 5,
+    "pointsPerMillion": 3.269230769230769,
+    "price": 5.2,
+    "priceChange": 0,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 8,
+    "racePosition": null,
+    "racePositionsGained": 6,
+    "sessionNnPoints": 4,
+    "sessionPoints": 4,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "3 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "11th & 15th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "2 positions gained & 3 positions lost"
+      },
+      "totalPoints": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 5,
+    "sprintPosition": null,
+    "sprintPositionsGained": -1,
+    "totalPoints": 17,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MCL",
+    "color": "#FF9800",
+    "id": "MCL",
+    "nnTotalPoints": 23,
+    "percentOwned": 7,
+    "pointsPerMillion": 2.5555555555555554,
+    "price": 9,
+    "priceChange": 0,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": -3,
+    "sessionNnPoints": 0,
+    "sessionPoints": -2,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "2 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "10th & 17th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -6,
+        "text": "1 position gained & 7 positions lost"
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": -2,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 4,
+    "sprintPosition": null,
+    "sprintPositionsGained": -6,
+    "totalPoints": 23,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MER",
+    "color": "#00d2be",
+    "id": "MER",
+    "nnTotalPoints": 49,
+    "percentOwned": 13,
+    "pointsPerMillion": 1.9521912350597608,
+    "price": 25.1,
+    "priceChange": 0,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": true,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 7,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 7,
+    "sessionPoints": 7,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "1 overtake made"
+      },
+      "positionPoints": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "4th & 7th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "1 position lost"
+      },
+      "totalPoints": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 1,
+    "sprintPosition": null,
+    "sprintPositionsGained": -1,
+    "totalPoints": 49,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "RED",
+    "color": "#0600ef",
+    "id": "RED",
+    "nnTotalPoints": 108,
+    "percentOwned": 56,
+    "pointsPerMillion": 3.9272727272727272,
+    "price": 27.5,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 3,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 23,
+    "sessionPoints": 23,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 3,
+        "points": 3,
+        "text": "2 & 1 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 14,
+        "points": 14,
+        "text": "1st & 3rd place"
+      },
+      "positionsGained": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "1 position gained"
+      },
+      "totalPoints": {
+        "nnPoints": 23,
+        "points": 23,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": true,
+    "sprintOvertakes": 3,
+    "sprintPosition": null,
+    "sprintPositionsGained": 1,
+    "totalPoints": 108,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "WIL",
+    "color": "#005aff",
+    "id": "WIL",
+    "nnTotalPoints": 5,
+    "percentOwned": 2,
+    "pointsPerMillion": 1.0204081632653061,
+    "price": 4.9,
+    "priceChange": -0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": -2,
+    "sessionNnPoints": 0,
+    "sessionPoints": -2,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overtakes": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "No overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "9th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -2,
+        "text": "2 positions lost"
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": -2,
+        "text": "Sprint Points"
+      }
+    },
+    "sprintDnf": 1,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 0,
+    "sprintPosition": null,
+    "sprintPositionsGained": -2,
+    "totalPoints": 5,
+    "type": "constructor"
+  }
+]

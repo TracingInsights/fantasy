@@ -1,0 +1,832 @@
+[
+  {
+    "abbreviation": "ALP",
+    "color": "#ff87bc",
+    "id": "ALP",
+    "nnTotalPoints": 32,
+    "percentOwned": 11,
+    "pointsPerMillion": 1.3186813186813187,
+    "price": 9.1,
+    "priceChange": 0.6,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 10,
+    "racePosition": null,
+    "racePositionsGained": 0,
+    "sessionNnPoints": 13,
+    "sessionPoints": 13,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "Fastest pit stop of 2.7s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "9 & 1 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "10th & 15th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "1 position gained & 1 position lost"
+      },
+      "totalPoints": {
+        "nnPoints": 13,
+        "points": 13,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 1,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 6,
+    "sprintPosition": null,
+    "sprintPositionsGained": 5,
+    "totalPoints": 12,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "AST",
+    "color": "#006f62",
+    "id": "AST",
+    "nnTotalPoints": 17,
+    "percentOwned": 16,
+    "pointsPerMillion": 0.7692307692307693,
+    "price": 11.7,
+    "priceChange": -0.6,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 5,
+    "racePosition": null,
+    "racePositionsGained": -5,
+    "sessionNnPoints": 10,
+    "sessionPoints": 5,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest pit stop of 2.42s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "3 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "14th & 16th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -5,
+        "text": "3 & 2 positions lost"
+      },
+      "totalPoints": {
+        "nnPoints": 10,
+        "points": 5,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 1,
+    "sprintPosition": null,
+    "sprintPositionsGained": -3,
+    "totalPoints": 9,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "FER",
+    "color": "#dc0000",
+    "id": "FER",
+    "nnTotalPoints": 37,
+    "percentOwned": 19,
+    "pointsPerMillion": -0.09523809523809523,
+    "price": 31.5,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 2,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 1,
+    "racePosition": null,
+    "racePositionsGained": 0,
+    "sessionNnPoints": 6,
+    "sessionPoints": -34,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest pit stop of 2.32s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": -40,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "1 overtake made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "None Classified"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "No positions gained or lost"
+      },
+      "totalPoints": {
+        "nnPoints": 6,
+        "points": -34,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 5,
+    "sprintPosition": null,
+    "sprintPositionsGained": 7,
+    "totalPoints": -3,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "HAA",
+    "color": "#ffffff",
+    "id": "HAA",
+    "nnTotalPoints": 54,
+    "percentOwned": 18,
+    "pointsPerMillion": 3.913043478260869,
+    "price": 13.8,
+    "priceChange": 0.6,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 13,
+    "racePosition": null,
+    "racePositionsGained": 10,
+    "sessionNnPoints": 33,
+    "sessionPoints": 33,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "Fastest pit stop of 2.92s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 13,
+        "points": 13,
+        "text": "12 & 1 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 8,
+        "points": 8,
+        "text": "6th & 12th place"
+      },
+      "positionsGained": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "8 & 2 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 33,
+        "points": 33,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 3,
+    "sprintPosition": null,
+    "sprintPositionsGained": 10,
+    "totalPoints": 54,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "KCK",
+    "color": "#00E701",
+    "id": "KCK",
+    "nnTotalPoints": 25,
+    "percentOwned": 15,
+    "pointsPerMillion": -0.8571428571428571,
+    "price": 10.5,
+    "priceChange": -0.6,
+    "qualifyingPosition": null,
+    "raceDnf": 1,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 7,
+    "racePosition": null,
+    "racePositionsGained": 1,
+    "sessionNnPoints": 15,
+    "sessionPoints": -5,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest pit stop of 2.42s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": -20,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "5 & 2 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "9th place"
+      },
+      "positionsGained": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "1 position gained"
+      },
+      "totalPoints": {
+        "nnPoints": 15,
+        "points": -5,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 4,
+    "sprintPosition": null,
+    "sprintPositionsGained": -9,
+    "totalPoints": -9,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MCL",
+    "color": "#ff9800",
+    "id": "MCL",
+    "nnTotalPoints": 84,
+    "percentOwned": 39,
+    "pointsPerMillion": 1.7696629213483146,
+    "price": 35.6,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 4,
+    "racePosition": null,
+    "racePositionsGained": -1,
+    "sessionNnPoints": 44,
+    "sessionPoints": 43,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest pit stop of 2.21s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "3 & 1 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 35,
+        "points": 35,
+        "text": "1st & 5th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "1 position lost"
+      },
+      "totalPoints": {
+        "nnPoints": 44,
+        "points": 43,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 1,
+    "sprintFastestLap": true,
+    "sprintOvertakes": 0,
+    "sprintPosition": null,
+    "sprintPositionsGained": 0,
+    "totalPoints": 63,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MER",
+    "color": "#00d2be",
+    "id": "MER",
+    "nnTotalPoints": 91,
+    "percentOwned": 18,
+    "pointsPerMillion": 3.309090909090909,
+    "price": 27.5,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 11,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 53,
+    "sessionPoints": 53,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Fastest pit stop of 2.15s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 11,
+        "points": 11,
+        "text": "6 & 5 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 30,
+        "points": 30,
+        "text": "2nd & 4th place"
+      },
+      "positionsGained": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "2 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 53,
+        "points": 53,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 0,
+    "sprintPosition": null,
+    "sprintPositionsGained": 1,
+    "totalPoints": 91,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "RED",
+    "color": "#0600ef",
+    "id": "RED",
+    "nnTotalPoints": 89,
+    "percentOwned": 11,
+    "pointsPerMillion": 2.913907284768212,
+    "price": 30.2,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": true,
+    "raceOvertakes": 18,
+    "racePosition": null,
+    "racePositionsGained": 16,
+    "sessionNnPoints": 74,
+    "sessionPoints": 74,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 20,
+        "points": 20,
+        "text": "Fastest pit stop of 1.95s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 18,
+        "points": 18,
+        "text": "13 & 5 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 15,
+        "points": 15,
+        "text": "3rd & 17th place"
+      },
+      "positionsGained": {
+        "nnPoints": 16,
+        "points": 16,
+        "text": "16 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 74,
+        "points": 74,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 2,
+    "sprintPosition": null,
+    "sprintPositionsGained": 8,
+    "totalPoints": 88,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "VRB",
+    "color": "#6692ff",
+    "id": "VRB",
+    "nnTotalPoints": 50,
+    "percentOwned": 27,
+    "pointsPerMillion": 3.263888888888889,
+    "price": 14.4,
+    "priceChange": 0.6,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 10,
+    "racePosition": null,
+    "racePositionsGained": -3,
+    "sessionNnPoints": 30,
+    "sessionPoints": 27,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Fastest pit stop of 2.04s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "7 & 3 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "7th & 8th place"
+      },
+      "positionsGained": {
+        "nnPoints": 0,
+        "points": -3,
+        "text": "3 positions lost"
+      },
+      "totalPoints": {
+        "nnPoints": 30,
+        "points": 27,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 0,
+    "sprintPosition": null,
+    "sprintPositionsGained": 0,
+    "totalPoints": 47,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "WIL",
+    "color": "#005aff",
+    "id": "WIL",
+    "nnTotalPoints": 42,
+    "percentOwned": 25,
+    "pointsPerMillion": 2.258064516129032,
+    "price": 18.6,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": true,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 17,
+    "racePosition": null,
+    "racePositionsGained": 3,
+    "sessionNnPoints": 35,
+    "sessionPoints": 35,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "dotdPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Driver of the Day"
+      },
+      "fastestLapPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Fastest Lap"
+      },
+      "fastestPitStopPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Fastest pit stop of 2.27s"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "overallFastestPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Overall fastest pit stop"
+      },
+      "overtakes": {
+        "nnPoints": 17,
+        "points": 17,
+        "text": "10 & 7 overtakes made"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "11th & 13th place"
+      },
+      "positionsGained": {
+        "nnPoints": 3,
+        "points": 3,
+        "text": "2 & 1 positions gained"
+      },
+      "totalPoints": {
+        "nnPoints": 35,
+        "points": 35,
+        "text": "Race Points"
+      },
+      "worldRecordPitStopPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "World record pit stop"
+      }
+    },
+    "sprintDnf": 0,
+    "sprintFastestLap": false,
+    "sprintOvertakes": 3,
+    "sprintPosition": null,
+    "sprintPositionsGained": 1,
+    "totalPoints": 42,
+    "type": "constructor"
+  }
+]

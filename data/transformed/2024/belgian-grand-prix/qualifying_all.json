@@ -1,0 +1,1708 @@
+[
+  {
+    "abbreviation": "GAS",
+    "color": "#ff87bc",
+    "constructorId": "ALP",
+    "id": "ALP_GAS",
+    "isActive": true,
+    "nnTotalPoints": 4,
+    "percentOwned": 26,
+    "pointsPerMillion": 0.30927835051546393,
+    "price": 9.7,
+    "priceChange": -0.1,
+    "qualifyingPosition": "12",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "13",
+    "racePositionsGained": -1,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "12th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 3,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "OCO",
+    "color": "#ff87bc",
+    "constructorId": "ALP",
+    "id": "ALP_OCO",
+    "isActive": true,
+    "nnTotalPoints": 10,
+    "percentOwned": 14,
+    "pointsPerMillion": 0.9090909090909091,
+    "price": 11,
+    "priceChange": 0.5,
+    "qualifyingPosition": "10",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 7,
+    "racePosition": "9",
+    "racePositionsGained": 0,
+    "sessionNnPoints": 1,
+    "sessionPoints": 1,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "10th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 10,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "ALO",
+    "color": "#006f62",
+    "constructorId": "AST",
+    "id": "AST_ALO",
+    "isActive": true,
+    "nnTotalPoints": 9,
+    "percentOwned": 28,
+    "pointsPerMillion": 0.5521472392638036,
+    "price": 16.3,
+    "priceChange": 0.1,
+    "qualifyingPosition": "9",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 3,
+    "racePosition": "8",
+    "racePositionsGained": 0,
+    "sessionNnPoints": 2,
+    "sessionPoints": 2,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "9th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 9,
+    "type": "driver",
+    "x2PercentOwned": 4
+  },
+  {
+    "abbreviation": "STR",
+    "color": "#006f62",
+    "constructorId": "AST",
+    "id": "AST_STR",
+    "isActive": true,
+    "nnTotalPoints": 7,
+    "percentOwned": 13,
+    "pointsPerMillion": 0.46052631578947373,
+    "price": 15.2,
+    "priceChange": 0.1,
+    "qualifyingPosition": "15",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 3,
+    "racePosition": "11",
+    "racePositionsGained": 4,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "15th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 7,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "BEA",
+    "color": "#dc0000",
+    "constructorId": "FER",
+    "id": "FER_BEA",
+    "isActive": false,
+    "nnTotalPoints": 0,
+    "percentOwned": 1,
+    "pointsPerMillion": 0,
+    "price": 15,
+    "priceChange": 0,
+    "qualifyingPosition": null,
+    "raceDnf": null,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 0,
+    "racePosition": null,
+    "racePositionsGained": 0,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 0,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "LEC",
+    "color": "#dc0000",
+    "constructorId": "FER",
+    "id": "FER_LEC",
+    "isActive": true,
+    "nnTotalPoints": 24,
+    "percentOwned": 28,
+    "pointsPerMillion": 0.944206008583691,
+    "price": 23.3,
+    "priceChange": 0.3,
+    "qualifyingPosition": "2",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 0,
+    "racePosition": "3",
+    "racePositionsGained": -2,
+    "sessionNnPoints": 9,
+    "sessionPoints": 9,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 9,
+        "points": 9,
+        "text": "2nd place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 9,
+        "points": 9,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 22,
+    "type": "driver",
+    "x2PercentOwned": 14
+  },
+  {
+    "abbreviation": "SAI",
+    "color": "#dc0000",
+    "constructorId": "FER",
+    "id": "FER_SAI",
+    "isActive": true,
+    "nnTotalPoints": 15,
+    "percentOwned": 19,
+    "pointsPerMillion": 0.6666666666666666,
+    "price": 22.5,
+    "priceChange": 0.1,
+    "qualifyingPosition": "8",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 3,
+    "racePosition": "6",
+    "racePositionsGained": 1,
+    "sessionNnPoints": 3,
+    "sessionPoints": 3,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 3,
+        "points": 3,
+        "text": "8th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 3,
+        "points": 3,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 15,
+    "type": "driver",
+    "x2PercentOwned": 7
+  },
+  {
+    "abbreviation": "HUL",
+    "color": "#ffffff",
+    "constructorId": "HAA",
+    "id": "HAA_HUL",
+    "isActive": true,
+    "nnTotalPoints": 4,
+    "percentOwned": 34,
+    "pointsPerMillion": 0.21052631578947367,
+    "price": 9.5,
+    "priceChange": -0.1,
+    "qualifyingPosition": "16",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "18",
+    "racePositionsGained": -2,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "16th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 2,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "MAG",
+    "color": "#ffffff",
+    "constructorId": "HAA",
+    "id": "HAA_MAG",
+    "isActive": true,
+    "nnTotalPoints": 6,
+    "percentOwned": 22,
+    "pointsPerMillion": 0.5309734513274336,
+    "price": 11.3,
+    "priceChange": 0.5,
+    "qualifyingPosition": "17",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 3,
+    "racePosition": "14",
+    "racePositionsGained": 3,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "17th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 6,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "BOT",
+    "color": "#00E701",
+    "constructorId": "KCK",
+    "id": "KCK_BOT",
+    "isActive": true,
+    "nnTotalPoints": 4,
+    "percentOwned": 28,
+    "pointsPerMillion": 0.39473684210526316,
+    "price": 7.6,
+    "priceChange": -0.1,
+    "qualifyingPosition": "14",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "15",
+    "racePositionsGained": -1,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "14th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 3,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "ZHO",
+    "color": "#00E701",
+    "constructorId": "KCK",
+    "id": "KCK_ZHO",
+    "isActive": true,
+    "nnTotalPoints": 2,
+    "percentOwned": 16,
+    "pointsPerMillion": -2.4657534246575343,
+    "price": 7.3,
+    "priceChange": -0.2,
+    "qualifyingPosition": "20",
+    "raceDnf": true,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 2,
+    "racePosition": "NC",
+    "racePositionsGained": 0,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "20th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": -18,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "NOR",
+    "color": "#ff9800",
+    "constructorId": "MCL",
+    "id": "MCL_NOR",
+    "isActive": true,
+    "nnTotalPoints": 18,
+    "percentOwned": 27,
+    "pointsPerMillion": 0.648854961832061,
+    "price": 26.2,
+    "priceChange": 0.1,
+    "qualifyingPosition": "5",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 2,
+    "racePosition": "5",
+    "racePositionsGained": -1,
+    "sessionNnPoints": 6,
+    "sessionPoints": 6,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 6,
+        "points": 6,
+        "text": "5th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 6,
+        "points": 6,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 17,
+    "type": "driver",
+    "x2PercentOwned": 17
+  },
+  {
+    "abbreviation": "PIA",
+    "color": "#ff9800",
+    "constructorId": "MCL",
+    "id": "MCL_PIA",
+    "isActive": true,
+    "nnTotalPoints": 30,
+    "percentOwned": 20,
+    "pointsPerMillion": 1.2875536480686696,
+    "price": 23.3,
+    "priceChange": 0.3,
+    "qualifyingPosition": "6",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "2",
+    "racePositionsGained": 3,
+    "sessionNnPoints": 5,
+    "sessionPoints": 5,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "6th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 30,
+    "type": "driver",
+    "x2PercentOwned": 6
+  },
+  {
+    "abbreviation": "HAM",
+    "color": "#00d2be",
+    "constructorId": "MER",
+    "id": "MER_HAM",
+    "isActive": true,
+    "nnTotalPoints": 46,
+    "percentOwned": 17,
+    "pointsPerMillion": 1.9913419913419912,
+    "price": 23.1,
+    "priceChange": 1,
+    "qualifyingPosition": "4",
+    "raceDnf": false,
+    "raceDriverOfTheDay": true,
+    "raceFastestLap": false,
+    "raceOvertakes": 2,
+    "racePosition": "1",
+    "racePositionsGained": 2,
+    "sessionNnPoints": 7,
+    "sessionPoints": 7,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "4th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 46,
+    "type": "driver",
+    "x2PercentOwned": 7
+  },
+  {
+    "abbreviation": "RUS",
+    "color": "#00d2be",
+    "constructorId": "MER",
+    "id": "MER_RUS",
+    "isActive": true,
+    "nnTotalPoints": 4,
+    "percentOwned": 12,
+    "pointsPerMillion": -0.9905660377358491,
+    "price": 21.2,
+    "priceChange": -0.5,
+    "qualifyingPosition": "7",
+    "raceDnf": true,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 0,
+    "racePosition": "DQ",
+    "racePositionsGained": 0,
+    "sessionNnPoints": 4,
+    "sessionPoints": 4,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "7th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 4,
+        "points": 4,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": -21,
+    "type": "driver",
+    "x2PercentOwned": 3
+  },
+  {
+    "abbreviation": "PER",
+    "color": "#0600ef",
+    "constructorId": "RED",
+    "id": "RED_PER",
+    "isActive": true,
+    "nnTotalPoints": 24,
+    "percentOwned": 9,
+    "pointsPerMillion": 0.8260869565217391,
+    "price": 23,
+    "priceChange": 0.3,
+    "qualifyingPosition": "3",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": true,
+    "raceOvertakes": 0,
+    "racePosition": "7",
+    "racePositionsGained": -5,
+    "sessionNnPoints": 8,
+    "sessionPoints": 8,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 8,
+        "points": 8,
+        "text": "3rd place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 8,
+        "points": 8,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 19,
+    "type": "driver",
+    "x2PercentOwned": 4
+  },
+  {
+    "abbreviation": "VER",
+    "color": "#0600ef",
+    "constructorId": "RED",
+    "id": "RED_VER",
+    "isActive": true,
+    "nnTotalPoints": 35,
+    "percentOwned": 40,
+    "pointsPerMillion": 1.12540192926045,
+    "price": 31.1,
+    "priceChange": 0.2,
+    "qualifyingPosition": "1",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 6,
+    "racePosition": "4",
+    "racePositionsGained": 7,
+    "sessionNnPoints": 10,
+    "sessionPoints": 10,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Pole position"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 35,
+    "type": "driver",
+    "x2PercentOwned": 33
+  },
+  {
+    "abbreviation": "RIC",
+    "color": "#6692ff",
+    "constructorId": "VRB",
+    "id": "VRB_RIC",
+    "isActive": true,
+    "nnTotalPoints": 8,
+    "percentOwned": 36,
+    "pointsPerMillion": 0.7407407407407407,
+    "price": 10.8,
+    "priceChange": 0.5,
+    "qualifyingPosition": "13",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "10",
+    "racePositionsGained": 3,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "13th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 8,
+    "type": "driver",
+    "x2PercentOwned": 1
+  },
+  {
+    "abbreviation": "TSU",
+    "color": "#6692ff",
+    "constructorId": "VRB",
+    "id": "VRB_TSU",
+    "isActive": true,
+    "nnTotalPoints": 6,
+    "percentOwned": 37,
+    "pointsPerMillion": 0.5769230769230769,
+    "price": 10.4,
+    "priceChange": 0.5,
+    "qualifyingPosition": "18",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 2,
+    "racePosition": "16",
+    "racePositionsGained": 4,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "18th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 6,
+    "type": "driver",
+    "x2PercentOwned": 1
+  },
+  {
+    "abbreviation": "ALB",
+    "color": "#005aff",
+    "constructorId": "WIL",
+    "id": "WIL_ALB",
+    "isActive": true,
+    "nnTotalPoints": 4,
+    "percentOwned": 49,
+    "pointsPerMillion": 0.2247191011235955,
+    "price": 8.9,
+    "priceChange": -0.1,
+    "qualifyingPosition": "11",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 4,
+    "racePosition": "12",
+    "racePositionsGained": -2,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "11th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 2,
+    "type": "driver",
+    "x2PercentOwned": 1
+  },
+  {
+    "abbreviation": "SAR",
+    "color": "#005aff",
+    "constructorId": "WIL",
+    "id": "WIL_SAR",
+    "isActive": true,
+    "nnTotalPoints": 2,
+    "percentOwned": 24,
+    "pointsPerMillion": 0.3921568627450981,
+    "price": 5.1,
+    "priceChange": -0.1,
+    "qualifyingPosition": "19",
+    "raceDnf": false,
+    "raceDriverOfTheDay": false,
+    "raceFastestLap": false,
+    "raceOvertakes": 1,
+    "racePosition": "17",
+    "racePositionsGained": 1,
+    "sessionNnPoints": 0,
+    "sessionPoints": 0,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "19th place"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": ""
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 2,
+    "type": "driver",
+    "x2PercentOwned": 0
+  },
+  {
+    "abbreviation": "ALP",
+    "color": "#ff87bc",
+    "id": "ALP",
+    "nnTotalPoints": 19,
+    "percentOwned": 9,
+    "pointsPerMillion": 1.8556701030927836,
+    "price": 9.7,
+    "priceChange": 0.5,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 11,
+    "racePosition": null,
+    "racePositionsGained": -1,
+    "sessionNnPoints": 6,
+    "sessionPoints": 6,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "One driver reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 6,
+        "points": 6,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 18,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "AST",
+    "color": "#006f62",
+    "id": "AST",
+    "nnTotalPoints": 21,
+    "percentOwned": 19,
+    "pointsPerMillion": 1.3548387096774193,
+    "price": 15.5,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": 4,
+    "sessionNnPoints": 7,
+    "sessionPoints": 7,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 2,
+        "points": 2,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 5,
+        "points": 5,
+        "text": "One driver reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 7,
+        "points": 7,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 21,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "FER",
+    "color": "#dc0000",
+    "id": "FER",
+    "nnTotalPoints": 48,
+    "percentOwned": 33,
+    "pointsPerMillion": 2.0085470085470085,
+    "price": 23.4,
+    "priceChange": 0.3,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 3,
+    "racePosition": null,
+    "racePositionsGained": -1,
+    "sessionNnPoints": 22,
+    "sessionPoints": 22,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 12,
+        "points": 12,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Both drivers reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 22,
+        "points": 22,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 47,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "HAA",
+    "color": "#ffffff",
+    "id": "HAA",
+    "nnTotalPoints": 8,
+    "percentOwned": 16,
+    "pointsPerMillion": 0.6796116504854368,
+    "price": 10.3,
+    "priceChange": -0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 7,
+    "racePosition": null,
+    "racePositionsGained": 1,
+    "sessionNnPoints": 0,
+    "sessionPoints": -1,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "Neither driver reached Q2"
+      },
+      "totalPoints": {
+        "nnPoints": 0,
+        "points": -1,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 7,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "KCK",
+    "color": "#00E701",
+    "id": "KCK",
+    "nnTotalPoints": 7,
+    "percentOwned": 8,
+    "pointsPerMillion": -2.0289855072463765,
+    "price": 6.9,
+    "priceChange": -0.2,
+    "qualifyingPosition": null,
+    "raceDnf": 1,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": -1,
+    "sessionNnPoints": 1,
+    "sessionPoints": 1,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "One driver reached Q2"
+      },
+      "totalPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": -14,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MCL",
+    "color": "#ff9800",
+    "id": "MCL",
+    "nnTotalPoints": 67,
+    "percentOwned": 24,
+    "pointsPerMillion": 2.586872586872587,
+    "price": 25.9,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 21,
+    "sessionPoints": 21,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 11,
+        "points": 11,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Both drivers reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 21,
+        "points": 21,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 67,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "MER",
+    "color": "#00d2be",
+    "id": "MER",
+    "nnTotalPoints": 50,
+    "percentOwned": 19,
+    "pointsPerMillion": 1.091703056768559,
+    "price": 22.9,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 1,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 2,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 21,
+    "sessionPoints": 21,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 11,
+        "points": 11,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Both drivers reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 21,
+        "points": 21,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 25,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "RED",
+    "color": "#0600ef",
+    "id": "RED",
+    "nnTotalPoints": 69,
+    "percentOwned": 25,
+    "pointsPerMillion": 2.3793103448275863,
+    "price": 29,
+    "priceChange": 0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": true,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": 2,
+    "sessionNnPoints": 28,
+    "sessionPoints": 28,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 18,
+        "points": 18,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 10,
+        "points": 10,
+        "text": "Both drivers reached Q3"
+      },
+      "totalPoints": {
+        "nnPoints": 28,
+        "points": 28,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 69,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "VRB",
+    "color": "#6692ff",
+    "id": "VRB",
+    "nnTotalPoints": 18,
+    "percentOwned": 30,
+    "pointsPerMillion": 1.6071428571428572,
+    "price": 11.2,
+    "priceChange": 0.5,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 6,
+    "racePosition": null,
+    "racePositionsGained": 7,
+    "sessionNnPoints": 1,
+    "sessionPoints": 1,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "One driver reached Q2"
+      },
+      "totalPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 18,
+    "type": "constructor"
+  },
+  {
+    "abbreviation": "WIL",
+    "color": "#005aff",
+    "id": "WIL",
+    "nnTotalPoints": 6,
+    "percentOwned": 18,
+    "pointsPerMillion": 0.7692307692307693,
+    "price": 6.5,
+    "priceChange": -0.1,
+    "qualifyingPosition": null,
+    "raceDnf": 0,
+    "raceFastestLap": false,
+    "raceOverallFastestPitStop": false,
+    "raceOvertakes": 5,
+    "racePosition": null,
+    "racePositionsGained": -1,
+    "sessionNnPoints": 1,
+    "sessionPoints": 1,
+    "sessionResult": {
+      "disqualifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Disqualified"
+      },
+      "notClassifiedPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "positionPoints": {
+        "nnPoints": 0,
+        "points": 0,
+        "text": "Not Classified"
+      },
+      "teamworkPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "One driver reached Q2"
+      },
+      "totalPoints": {
+        "nnPoints": 1,
+        "points": 1,
+        "text": "Qualifying Points"
+      }
+    },
+    "sprintDnf": null,
+    "sprintFastestLap": null,
+    "sprintOvertakes": null,
+    "sprintPosition": null,
+    "sprintPositionsGained": null,
+    "totalPoints": 5,
+    "type": "constructor"
+  }
+]

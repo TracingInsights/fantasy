@@ -1,0 +1,57 @@
+name: Sync stats data
+
+on:
+  schedule:
+    # Monday 10:00 PM IST = 16:30 UTC
+    - cron: "30 16 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Run sync
+        run: uv run f1-stats sync
+
+      - name: Commit, tag and release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes - skipping commit and release."
+            exit 0
+          fi
+          TIMESTAMP="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          TAG="data-sync-$(date -u +%Y%m%d-%H%M%S)"
+          SUMMARY=$(git diff --cached --stat | tail -1)
+          git commit -m "sync: data update ${TIMESTAMP}"
+          git tag "${TAG}"
+          git push origin main --tags
+          gh release create "${TAG}" \
+            --title "Data sync ${TIMESTAMP}" \
+            --notes "Weekly F1 Fantasy stats sync from f1fantasytools.com.
+
+          ${SUMMARY}
+
+          Fetch files via jsDelivr:
+          - Latest on main: \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/<path>\`
+          - This release: \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${TAG}/<path>\`" \
+            --latest

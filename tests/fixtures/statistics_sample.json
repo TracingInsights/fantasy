@@ -1,0 +1,1355 @@
+{
+  "seasonResult": {
+    "season": 2025,
+    "raceResults": {
+      "1": {
+        "drivers": [
+          {
+            "id": "ALP_DOO",
+            "abbreviation": "DOO",
+            "type": "driver",
+            "isActive": true,
+            "color": "#ff87bc",
+            "price": 7.2,
+            "totalPoints": -20,
+            "nnTotalPoints": 0,
+            "priceChange": -0.6,
+            "percentOwned": 21,
+            "x2PercentOwned": 0,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "14th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 0,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -20,
+                  "text": "Race Points",
+                  "nnPoints": 0
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 0,
+                  "text": "No overtakes made",
+                  "nnPoints": 0
+                },
+                "positionsGained": {
+                  "points": 0,
+                  "text": "No positions gained or lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "constructorId": "ALP",
+            "pointsPerMillion": -2.7777777777777777,
+            "sprintPosition": null,
+            "sprintFastestLap": null,
+            "sprintPositionsGained": null,
+            "sprintOvertakes": null,
+            "sprintDnf": null,
+            "qualifyingPosition": "14",
+            "racePosition": "NC",
+            "raceFastestLap": false,
+            "raceDnf": true,
+            "racePositionsGained": 0,
+            "raceOvertakes": 0,
+            "raceDriverOfTheDay": false
+          },
+          {
+            "id": "ALP_GAS",
+            "abbreviation": "GAS",
+            "type": "driver",
+            "isActive": true,
+            "color": "#ff87bc",
+            "price": 11.8,
+            "totalPoints": 1,
+            "nnTotalPoints": 3,
+            "priceChange": -0.6,
+            "percentOwned": 17,
+            "x2PercentOwned": 1,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 2,
+                  "text": "9th place",
+                  "nnPoints": 2
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 2,
+                  "text": "Qualifying Points",
+                  "nnPoints": 2
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "11th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -1,
+                  "text": "Race Points",
+                  "nnPoints": 1
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 1,
+                  "text": "1 overtake made",
+                  "nnPoints": 1
+                },
+                "positionsGained": {
+                  "points": -2,
+                  "text": "2 positions lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "constructorId": "ALP",
+            "pointsPerMillion": 0.0847457627118644,
+            "sprintPosition": null,
+            "sprintFastestLap": null,
+            "sprintPositionsGained": null,
+            "sprintOvertakes": null,
+            "sprintDnf": null,
+            "qualifyingPosition": "9",
+            "racePosition": "11",
+            "raceFastestLap": false,
+            "raceDnf": false,
+            "racePositionsGained": -2,
+            "raceOvertakes": 1,
+            "raceDriverOfTheDay": false
+          },
+          {
+            "id": "AST_ALO",
+            "abbreviation": "ALO",
+            "type": "driver",
+            "isActive": true,
+            "color": "#006f62",
+            "price": 8.8,
+            "totalPoints": -20,
+            "nnTotalPoints": 0,
+            "priceChange": -0.6,
+            "percentOwned": 47,
+            "x2PercentOwned": 1,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "12th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 0,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -20,
+                  "text": "Race Points",
+                  "nnPoints": 0
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 0,
+                  "text": "No overtakes made",
+                  "nnPoints": 0
+                },
+                "positionsGained": {
+                  "points": 0,
+                  "text": "No positions gained or lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "constructorId": "AST",
+            "pointsPerMillion": -2.2727272727272725,
+            "sprintPosition": null,
+            "sprintFastestLap": null,
+            "sprintPositionsGained": null,
+            "sprintOvertakes": null,
+            "sprintDnf": null,
+            "qualifyingPosition": "12",
+            "racePosition": "NC",
+            "raceFastestLap": false,
+            "raceDnf": true,
+            "racePositionsGained": 0,
+            "raceOvertakes": 0,
+            "raceDriverOfTheDay": false
+          }
+        ],
+        "constructors": [
+          {
+            "id": "ALP",
+            "abbreviation": "ALP",
+            "type": "constructor",
+            "color": "#ff87bc",
+            "price": 9.5,
+            "totalPoints": -14,
+            "nnTotalPoints": 8,
+            "priceChange": -0.6,
+            "percentOwned": 13,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 2,
+                  "text": "Not Classified",
+                  "nnPoints": 2
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 7,
+                  "text": "Qualifying Points",
+                  "nnPoints": 7
+                },
+                "teamworkPoints": {
+                  "points": 5,
+                  "text": "One driver reached Q3",
+                  "nnPoints": 5
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "11th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -21,
+                  "text": "Race Points",
+                  "nnPoints": 1
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 1,
+                  "text": "1 overtake made",
+                  "nnPoints": 1
+                },
+                "positionsGained": {
+                  "points": -2,
+                  "text": "2 positions lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop of 3.32s",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "pointsPerMillion": -1.4736842105263157,
+            "sprintPosition": null,
+            "sprintFastestLap": null,
+            "sprintPositionsGained": null,
+            "sprintOvertakes": null,
+            "sprintDnf": null,
+            "qualifyingPosition": null,
+            "racePosition": null,
+            "raceFastestLap": false,
+            "raceDnf": 1,
+            "racePositionsGained": -2,
+            "raceOvertakes": 1,
+            "raceOverallFastestPitStop": false
+          },
+          {
+            "id": "AST",
+            "abbreviation": "AST",
+            "type": "constructor",
+            "color": "#006f62",
+            "price": 8.5,
+            "totalPoints": 1,
+            "nnTotalPoints": 21,
+            "priceChange": -0.6,
+            "percentOwned": 20,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 3,
+                  "text": "Qualifying Points",
+                  "nnPoints": 3
+                },
+                "teamworkPoints": {
+                  "points": 3,
+                  "text": "Both drivers reached Q2",
+                  "nnPoints": 3
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 8,
+                  "text": "6th place",
+                  "nnPoints": 8
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -2,
+                  "text": "Race Points",
+                  "nnPoints": 18
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 1,
+                  "text": "1 overtake made",
+                  "nnPoints": 1
+                },
+                "positionsGained": {
+                  "points": 7,
+                  "text": "7 positions gained",
+                  "nnPoints": 7
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 2,
+                  "text": "Fastest pit stop of 2.82s",
+                  "nnPoints": 2
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "pointsPerMillion": 0.11764705882352941,
+            "sprintPosition": null,
+            "sprintFastestLap": null,
+            "sprintPositionsGained": null,
+            "sprintOvertakes": null,
+            "sprintDnf": null,
+            "qualifyingPosition": null,
+            "racePosition": null,
+            "raceFastestLap": false,
+            "raceDnf": 1,
+            "racePositionsGained": 7,
+            "raceOvertakes": 1,
+            "raceOverallFastestPitStop": false
+          }
+        ]
+      },
+      "2": {
+        "drivers": [
+          {
+            "id": "ALP_DOO",
+            "abbreviation": "DOO",
+            "type": "driver",
+            "isActive": true,
+            "color": "#ff87bc",
+            "price": 6.6,
+            "totalPoints": 11,
+            "nnTotalPoints": 15,
+            "priceChange": -0.6,
+            "percentOwned": 18,
+            "x2PercentOwned": 0,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "18th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 0,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "13th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 13,
+                  "text": "Race Points",
+                  "nnPoints": 13
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 8,
+                  "text": "8 overtakes made",
+                  "nnPoints": 8
+                },
+                "positionsGained": {
+                  "points": 5,
+                  "text": "5 positions gained",
+                  "nnPoints": 5
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              },
+              "S": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "20th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -2,
+                  "text": "Sprint Points",
+                  "nnPoints": 2
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 2,
+                  "text": "2 overtakes made",
+                  "nnPoints": 2
+                },
+                "positionsGained": {
+                  "points": -4,
+                  "text": "4 positions lost",
+                  "nnPoints": 0
+                }
+              }
+            },
+            "constructorId": "ALP",
+            "pointsPerMillion": 1.6666666666666667,
+            "sprintPosition": "20",
+            "sprintFastestLap": false,
+            "sprintPositionsGained": -4,
+            "sprintOvertakes": 2,
+            "sprintDnf": false,
+            "qualifyingPosition": "18",
+            "racePosition": "13",
+            "raceFastestLap": false,
+            "raceDnf": false,
+            "racePositionsGained": 5,
+            "raceOvertakes": 8,
+            "raceDriverOfTheDay": false
+          },
+          {
+            "id": "ALP_GAS",
+            "abbreviation": "GAS",
+            "type": "driver",
+            "isActive": true,
+            "color": "#ff87bc",
+            "price": 11.2,
+            "totalPoints": -8,
+            "nnTotalPoints": 12,
+            "priceChange": -0.6,
+            "percentOwned": 16,
+            "x2PercentOwned": 0,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "16th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 0,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": -20,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -20,
+                  "text": "Race Points",
+                  "nnPoints": 0
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 0,
+                  "text": "No overtakes made",
+                  "nnPoints": 0
+                },
+                "positionsGained": {
+                  "points": 0,
+                  "text": "No positions gained or lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              },
+              "S": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "12th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 12,
+                  "text": "Sprint Points",
+                  "nnPoints": 12
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 7,
+                  "text": "7 overtakes made",
+                  "nnPoints": 7
+                },
+                "positionsGained": {
+                  "points": 5,
+                  "text": "5 positions gained",
+                  "nnPoints": 5
+                }
+              }
+            },
+            "constructorId": "ALP",
+            "pointsPerMillion": -0.7142857142857143,
+            "sprintPosition": "12",
+            "sprintFastestLap": false,
+            "sprintPositionsGained": 5,
+            "sprintOvertakes": 7,
+            "sprintDnf": false,
+            "qualifyingPosition": "16",
+            "racePosition": "DQ",
+            "raceFastestLap": false,
+            "raceDnf": true,
+            "racePositionsGained": 0,
+            "raceOvertakes": 0,
+            "raceDriverOfTheDay": false
+          },
+          {
+            "id": "AST_ALO",
+            "abbreviation": "ALO",
+            "type": "driver",
+            "isActive": true,
+            "color": "#006f62",
+            "price": 8.2,
+            "totalPoints": -16,
+            "nnTotalPoints": 4,
+            "priceChange": -0.6,
+            "percentOwned": 43,
+            "x2PercentOwned": 1,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "13th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 0,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": 0,
+                  "text": "",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -19,
+                  "text": "Race Points",
+                  "nnPoints": 1
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 1,
+                  "text": "1 overtake made",
+                  "nnPoints": 1
+                },
+                "positionsGained": {
+                  "points": 0,
+                  "text": "No positions gained or lost",
+                  "nnPoints": 0
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop time",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              },
+              "S": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "10th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 3,
+                  "text": "Sprint Points",
+                  "nnPoints": 3
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 2,
+                  "text": "2 overtakes made",
+                  "nnPoints": 2
+                },
+                "positionsGained": {
+                  "points": 1,
+                  "text": "1 position gained",
+                  "nnPoints": 1
+                }
+              }
+            },
+            "constructorId": "AST",
+            "pointsPerMillion": -1.9512195121951221,
+            "sprintPosition": "10",
+            "sprintFastestLap": false,
+            "sprintPositionsGained": 1,
+            "sprintOvertakes": 2,
+            "sprintDnf": false,
+            "qualifyingPosition": "13",
+            "racePosition": "NC",
+            "raceFastestLap": false,
+            "raceDnf": true,
+            "racePositionsGained": 0,
+            "raceOvertakes": 1,
+            "raceDriverOfTheDay": false
+          }
+        ],
+        "constructors": [
+          {
+            "id": "ALP",
+            "abbreviation": "ALP",
+            "type": "constructor",
+            "color": "#ff87bc",
+            "price": 8.9,
+            "totalPoints": -6,
+            "nnTotalPoints": 25,
+            "priceChange": -0.6,
+            "percentOwned": 11,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -1,
+                  "text": "Qualifying Points",
+                  "nnPoints": 0
+                },
+                "teamworkPoints": {
+                  "points": -1,
+                  "text": "Neither driver reached Q2",
+                  "nnPoints": 0
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "13th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": -30,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -15,
+                  "text": "Race Points",
+                  "nnPoints": 15
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 8,
+                  "text": "8 overtakes made",
+                  "nnPoints": 8
+                },
+                "positionsGained": {
+                  "points": 5,
+                  "text": "5 positions gained",
+                  "nnPoints": 5
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 2,
+                  "text": "Fastest pit stop of 2.79s",
+                  "nnPoints": 2
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              },
+              "S": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "12th & 20th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 10,
+                  "text": "Sprint Points",
+                  "nnPoints": 10
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 9,
+                  "text": "7 & 2 overtakes made",
+                  "nnPoints": 9
+                },
+                "positionsGained": {
+                  "points": 1,
+                  "text": "5 positions gained & 4 positions lost",
+                  "nnPoints": 1
+                }
+              }
+            },
+            "pointsPerMillion": -0.6741573033707865,
+            "sprintPosition": null,
+            "sprintFastestLap": false,
+            "sprintPositionsGained": 1,
+            "sprintOvertakes": 9,
+            "sprintDnf": 0,
+            "qualifyingPosition": null,
+            "racePosition": null,
+            "raceFastestLap": false,
+            "raceDnf": 1,
+            "racePositionsGained": 5,
+            "raceOvertakes": 8,
+            "raceOverallFastestPitStop": false
+          },
+          {
+            "id": "AST",
+            "abbreviation": "AST",
+            "type": "constructor",
+            "color": "#006f62",
+            "price": 7.9,
+            "totalPoints": 4,
+            "nnTotalPoints": 24,
+            "priceChange": -0.6,
+            "percentOwned": 19,
+            "raceResult": {
+              "Q": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 3,
+                  "text": "Qualifying Points",
+                  "nnPoints": 3
+                },
+                "teamworkPoints": {
+                  "points": 3,
+                  "text": "Both drivers reached Q2",
+                  "nnPoints": 3
+                }
+              },
+              "R": {
+                "positionPoints": {
+                  "points": 2,
+                  "text": "9th place",
+                  "nnPoints": 2
+                },
+                "notClassifiedPoints": {
+                  "points": -20,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": -6,
+                  "text": "Race Points",
+                  "nnPoints": 14
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 7,
+                  "text": "6 & 1 overtakes made",
+                  "nnPoints": 7
+                },
+                "positionsGained": {
+                  "points": 5,
+                  "text": "5 positions gained",
+                  "nnPoints": 5
+                },
+                "dotdPoints": {
+                  "points": 0,
+                  "text": "Driver of the Day",
+                  "nnPoints": 0
+                },
+                "fastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Fastest pit stop of 3.21s",
+                  "nnPoints": 0
+                },
+                "overallFastestPitStopPoints": {
+                  "points": 0,
+                  "text": "Overall fastest pit stop",
+                  "nnPoints": 0
+                },
+                "worldRecordPitStopPoints": {
+                  "points": 0,
+                  "text": "World record pit stop",
+                  "nnPoints": 0
+                }
+              },
+              "S": {
+                "positionPoints": {
+                  "points": 0,
+                  "text": "9th & 10th place",
+                  "nnPoints": 0
+                },
+                "notClassifiedPoints": {
+                  "points": 0,
+                  "text": "Not Classified",
+                  "nnPoints": 0
+                },
+                "disqualifiedPoints": {
+                  "points": 0,
+                  "text": "Disqualified",
+                  "nnPoints": 0
+                },
+                "totalPoints": {
+                  "points": 7,
+                  "text": "Sprint Points",
+                  "nnPoints": 7
+                },
+                "fastestLapPoints": {
+                  "points": 0,
+                  "text": "Fastest Lap",
+                  "nnPoints": 0
+                },
+                "overtakes": {
+                  "points": 5,
+                  "text": "3 & 2 overtakes made",
+                  "nnPoints": 5
+                },
+                "positionsGained": {
+                  "points": 2,
+                  "text": "1 & 1 positions gained",
+                  "nnPoints": 2
+                }
+              }
+            },
+            "pointsPerMillion": 0.5063291139240506,
+            "sprintPosition": null,
+            "sprintFastestLap": false,
+            "sprintPositionsGained": 2,
+            "sprintOvertakes": 5,
+            "sprintDnf": 0,
+            "qualifyingPosition": null,
+            "racePosition": null,
+            "raceFastestLap": false,
+            "raceDnf": 1,
+            "racePositionsGained": 5,
+            "raceOvertakes": 7,
+            "raceOverallFastestPitStop": false
+          }
+        ]
+      }
+    }
+  },
+  "races": [
+    {
+      "id": "2025_1",
+      "name": "Australian Grand Prix",
+      "roundNumber": 1,
+      "countryCode": "AUS",
+      "countryName": "Australia",
+      "city": "Melbourne",
+      "circuitMapUrl": "data:image/png;base64,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",
+      "sprint": false,
+      "start_times": {
+        "qualifying": "2025-03-15T05:00:00.000Z",
+        "race": "2025-03-16T04:00:00.000Z"
+      },
+      "flagUrl": "data:image/png;base64,TRIMMED"
+    },
+    {
+      "id": "2025_2",
+      "name": "Chinese Grand Prix",
+      "roundNumber": 2,
+      "countryCode": "CHN",
+      "countryName": "China",
+      "city": "Shanghai",
+      "circuitMapUrl": "data:image/png;base64,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",
+      "sprint": true,
+      "start_times": {
+        "qualifying": "2025-03-22T07:00:00.000Z",
+        "race": "2025-03-23T07:00:00.000Z",
+        "sprint": "2025-03-22T03:00:00.000Z"
+      },
+      "flagUrl": "data:image/png;base64,TRIMMED"
+    }
+  ]
+}
