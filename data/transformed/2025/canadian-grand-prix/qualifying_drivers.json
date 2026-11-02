@@ -61,7 +61,7 @@
     "constructorId": "ALP",
     "id": "ALP_DOO",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -25,
     "percentOwned": 11,
     "pointsPerMillion": -5.555555555555555,
     "price": 4.5,
@@ -73,7 +73,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -5,
     "sessionPoints": -5,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -97,7 +97,7 @@
         "text": ""
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -5,
         "points": -5,
         "text": "Qualifying Points"
       }
@@ -845,7 +845,7 @@
     "constructorId": "RED",
     "id": "RED_LAW",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -25,
     "percentOwned": 2,
     "pointsPerMillion": -1.4880952380952381,
     "price": 16.8,
@@ -857,7 +857,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -5,
     "sessionPoints": -5,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -881,7 +881,7 @@
         "text": ""
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -5,
         "points": -5,
         "text": "Qualifying Points"
       }
@@ -1125,7 +1125,7 @@
     "constructorId": "VRB",
     "id": "VRB_TSU",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -25,
     "percentOwned": 13,
     "pointsPerMillion": -2.9761904761904763,
     "price": 8.4,
@@ -1137,7 +1137,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -5,
     "sessionPoints": -5,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1161,7 +1161,7 @@
         "text": ""
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -5,
         "points": -5,
         "text": "Qualifying Points"
       }

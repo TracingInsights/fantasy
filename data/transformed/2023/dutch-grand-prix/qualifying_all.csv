@@ -23,7 +23,7 @@ WIL_ALB,ALB,driver,True,#005aff,7.9,17,17,0.5,,,WIL,2.151898734177215,,,,,,4,8,F
 WIL_SAR,SAR,driver,True,#005aff,4.5,-18,0,0,,,WIL,-4,,,,,,10,NC,False,True,0,1,False,1,10th place,1,0,Not Classified,0,0,Disqualified,0,1,Qualifying Points,1,0,,0,1,1,
 ALF,ALF,constructor,,#900000,6.4,4,4,0,,,,0.625,,,,,,,,False,1,4,21,,0,Not Classified,0,0,Not Classified,0,0,Disqualified,0,-1,Qualifying Points,0,-1,Neither driver reached Q2,0,-1,0,False
 ALP,ALP,constructor,,#0090ff,10.8,66,66,0.5,,,,6.111111111111111,,,,,,,,False,0,15,34,,0,Not Classified,0,0,Not Classified,0,0,Disqualified,0,1,Qualifying Points,1,1,One driver reached Q2,1,1,1,False
-ALT,ALT,constructor,,#2b4562,6,40,40,0.5,,,,6.666666666666667,,,,,,,,False,0,8,27,,0,Not Classified,0,0,Not Classified,0,0,Disqualified,0,5,Qualifying Points,5,5,One driver reached Q3,5,5,5,False
+ALT,ALT,constructor,,#2b4562,6,36,36,0.5,,,,6,,,,,,,,False,0,8,27,,0,Not Classified,0,0,Not Classified,0,0,Disqualified,0,1,Qualifying Points,1,1,One driver reached Q2,1,1,1,False
 AST,AST,constructor,,#006f62,10,67,67,1,,,,6.7,,,,,,,,True,0,3,25,,6,Not Classified,6,0,Not Classified,0,0,Disqualified,0,11,Qualifying Points,11,5,One driver reached Q3,5,11,11,False
 FER,FER,constructor,,#dc0000,23.1,34,34,0.1,,,,1.4718614718614718,,,,,,,,False,1,1,26,,7,Not Classified,7,0,Not Classified,0,0,Disqualified,0,17,Qualifying Points,17,10,Both drivers reached Q3,10,17,17,False
 HAA,HAA,constructor,,#ffffff,5.4,26,26,0.5,,,,4.814814814814815,,,,,,,,False,0,6,19,,0,Not Classified,0,0,Not Classified,0,0,Disqualified,0,1,Qualifying Points,1,1,One driver reached Q2,1,1,1,False

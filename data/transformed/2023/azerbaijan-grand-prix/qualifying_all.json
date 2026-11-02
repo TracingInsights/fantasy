@@ -1071,7 +1071,7 @@
     "isActive": true,
     "nnTotalPoints": 0,
     "percentOwned": 10,
-    "pointsPerMillion": 0,
+    "pointsPerMillion": -5.2631578947368425,
     "price": 3.8,
     "priceChange": -0.1,
     "qualifyingPosition": "15",
@@ -1115,7 +1115,7 @@
     "sprintOvertakes": 0,
     "sprintPosition": "WD",
     "sprintPositionsGained": 0,
-    "totalPoints": 0,
+    "totalPoints": -20,
     "type": "driver",
     "x2PercentOwned": 0
   },

@@ -1127,7 +1127,7 @@
     "constructorId": "RED",
     "id": "RED_LAW",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -35,
     "percentOwned": 1,
     "pointsPerMillion": -2.3178807947019866,
     "price": 15.1,
@@ -1139,7 +1139,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -10,
     "sessionPoints": -10,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1173,7 +1173,7 @@
         "text": "No positions gained or lost"
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -10,
         "points": -10,
         "text": "Sprint Points"
       }
@@ -1391,7 +1391,7 @@
     "constructorId": "VRB",
     "id": "VRB_TSU",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -35,
     "percentOwned": 1,
     "pointsPerMillion": -3.6082474226804124,
     "price": 9.7,
@@ -1403,7 +1403,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -10,
     "sessionPoints": -10,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1437,7 +1437,7 @@
         "text": "No positions gained or lost"
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -10,
         "points": -10,
         "text": "Sprint Points"
       }

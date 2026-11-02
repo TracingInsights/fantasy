@@ -901,7 +901,7 @@
     "constructorId": "RED",
     "id": "RED_HAD",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -25,
     "percentOwned": 27,
     "pointsPerMillion": -1.7241379310344827,
     "price": 14.5,
@@ -913,7 +913,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -5,
     "sessionPoints": -5,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -937,7 +937,7 @@
         "text": ""
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -5,
         "points": -5,
         "text": "Qualifying Points"
       }
@@ -1069,7 +1069,7 @@
     "constructorId": "VRB",
     "id": "VRB_LAW",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -25,
     "percentOwned": 26,
     "pointsPerMillion": -2.4271844660194173,
     "price": 10.3,
@@ -1081,7 +1081,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -5,
     "sessionPoints": -5,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1105,7 +1105,7 @@
         "text": ""
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -5,
         "points": -5,
         "text": "Qualifying Points"
       }

@@ -13,11 +13,11 @@ MCL_NOR,NOR,driver,True,#ff9800,30,36,36,0.1,25,21,MCL,1.2,,,,,,10,4,True,False,
 MCL_PIA,PIA,driver,True,#ff9800,23.4,38,38,0.3,34,27,MCL,1.623931623931624,,,,,,2,1,False,False,1,3,False,9,2nd place,9,0,Not Classified,0,0,Disqualified,0,9,Qualifying Points,9,0,,0,9,9
 MER_ANT,ANT,driver,True,#00d2be,19.7,15,16,-0.1,19,5,MER,0.7614213197969544,,,,,,5,6,False,False,-1,2,False,6,5th place,6,0,Not Classified,0,0,Disqualified,0,6,Qualifying Points,6,0,,0,6,6
 MER_RUS,RUS,driver,True,#00d2be,22,16,18,0.1,12,5,MER,0.7272727272727273,,,,,,3,5,False,False,-2,0,False,8,3rd place,8,0,Not Classified,0,0,Disqualified,0,8,Qualifying Points,8,0,,0,8,8
-RED_LAW,LAW,driver,False,#0600ef,16.8,-25,0,0,2,0,RED,-1.4880952380952381,,,,,,,,False,,0,0,False,0,Not Classified,0,-5,Not Classified,0,0,Disqualified,0,-5,Qualifying Points,0,0,,0,-5,0
+RED_LAW,LAW,driver,False,#0600ef,16.8,-25,-25,0,2,0,RED,-1.4880952380952381,,,,,,,,False,,0,0,False,0,Not Classified,0,-5,Not Classified,0,0,Disqualified,0,-5,Qualifying Points,-5,0,,0,-5,-5
 RED_TSU,TSU,driver,True,#0600ef,16.4,-17,3,-0.6,5,1,RED,-1.0365853658536586,,,,,,8,NC,False,True,0,0,False,3,8th place,3,0,Not Classified,0,0,Disqualified,0,3,Qualifying Points,3,0,,0,3,3
 RED_VER,VER,driver,True,#0600ef,28.8,38,39,0.1,17,13,RED,1.3194444444444444,,,,,,1,2,False,False,-1,1,True,10,Pole position,10,0,Not Classified,0,0,Disqualified,0,10,Qualifying Points,10,0,,0,10,10
 VRB_HAD,HAD,driver,True,#6692ff,5.1,8,8,0.6,55,1,VRB,1.5686274509803924,,,,,,14,10,False,False,4,3,False,0,14th place,0,0,Not Classified,0,0,Disqualified,0,0,Qualifying Points,0,0,,0,0,0
 VRB_LAW,LAW,driver,True,#6692ff,7.2,5,5,-0.6,6,0,VRB,0.6944444444444444,,,,,,12,12,False,False,0,5,False,0,12th place,0,0,Not Classified,0,0,Disqualified,0,0,Qualifying Points,0,0,,0,0,0
-VRB_TSU,TSU,driver,False,#6692ff,8.4,-25,0,0,17,1,VRB,-2.9761904761904763,,,,,,,,False,,0,0,False,0,Not Classified,0,-5,Not Classified,0,0,Disqualified,0,-5,Qualifying Points,0,0,,0,-5,0
+VRB_TSU,TSU,driver,False,#6692ff,8.4,-25,-25,0,17,1,VRB,-2.9761904761904763,,,,,,,,False,,0,0,False,0,Not Classified,0,-5,Not Classified,0,0,Disqualified,0,-5,Qualifying Points,-5,0,,0,-5,-5
 WIL_ALB,ALB,driver,True,#005aff,12.8,10,10,-0.2,30,2,WIL,0.78125,,,,,,11,9,False,False,2,6,False,0,11th place,0,0,Not Classified,0,0,Disqualified,0,0,Qualifying Points,0,0,,0,0,0
 WIL_SAI,SAI,driver,True,#005aff,10.7,12,14,-0.6,38,4,WIL,1.1214953271028039,,,,,,6,8,False,False,-2,5,False,5,6th place,5,0,Not Classified,0,0,Disqualified,0,5,Qualifying Points,5,0,,0,5,5

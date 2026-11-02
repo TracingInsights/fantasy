@@ -71,7 +71,7 @@
     "constructorId": "ALP",
     "id": "ALP_DOO",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -45,
     "percentOwned": 8,
     "pointsPerMillion": -10,
     "price": 4.5,
@@ -83,7 +83,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -20,
     "sessionPoints": -20,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -117,7 +117,7 @@
         "text": "No positions gained or lost"
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -20,
         "points": -20,
         "text": "Sprint Points"
       }
@@ -995,7 +995,7 @@
     "constructorId": "RED",
     "id": "RED_LAW",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -45,
     "percentOwned": 2,
     "pointsPerMillion": -2.6785714285714284,
     "price": 16.8,
@@ -1007,7 +1007,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -20,
     "sessionPoints": -20,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1041,7 +1041,7 @@
         "text": "No positions gained or lost"
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -20,
         "points": -20,
         "text": "Sprint Points"
       }
@@ -1325,7 +1325,7 @@
     "constructorId": "VRB",
     "id": "VRB_TSU",
     "isActive": false,
-    "nnTotalPoints": 0,
+    "nnTotalPoints": -45,
     "percentOwned": 11,
     "pointsPerMillion": -5.357142857142857,
     "price": 8.4,
@@ -1337,7 +1337,7 @@
     "raceOvertakes": 0,
     "racePosition": null,
     "racePositionsGained": 0,
-    "sessionNnPoints": 0,
+    "sessionNnPoints": -20,
     "sessionPoints": -20,
     "sessionResult": {
       "disqualifiedPoints": {
@@ -1371,7 +1371,7 @@
         "text": "No positions gained or lost"
       },
       "totalPoints": {
-        "nnPoints": 0,
+        "nnPoints": -20,
         "points": -20,
         "text": "Sprint Points"
       }

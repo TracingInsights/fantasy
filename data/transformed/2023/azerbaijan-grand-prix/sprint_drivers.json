@@ -1261,7 +1261,7 @@
     "isActive": true,
     "nnTotalPoints": 0,
     "percentOwned": 10,
-    "pointsPerMillion": 0,
+    "pointsPerMillion": -5.2631578947368425,
     "price": 3.8,
     "priceChange": -0.1,
     "qualifyingPosition": "15",
@@ -1272,7 +1272,7 @@
     "racePosition": "16",
     "racePositionsGained": -2,
     "sessionNnPoints": 0,
-    "sessionPoints": 0,
+    "sessionPoints": -20,
     "sessionResult": {
       "disqualifiedPoints": {
         "nnPoints": 0,
@@ -1286,7 +1286,7 @@
       },
       "notClassifiedPoints": {
         "nnPoints": 0,
-        "points": 0,
+        "points": -20,
         "text": "Withdrawn"
       },
       "overtakes": {
@@ -1306,7 +1306,7 @@
       },
       "totalPoints": {
         "nnPoints": 0,
-        "points": 0,
+        "points": -20,
         "text": "Sprint Points"
       }
     },
@@ -1315,7 +1315,7 @@
     "sprintOvertakes": 0,
     "sprintPosition": "WD",
     "sprintPositionsGained": 0,
-    "totalPoints": 0,
+    "totalPoints": -20,
     "type": "driver",
     "x2PercentOwned": 0
   }

@@ -2061,9 +2061,9 @@
     "abbreviation": "ALT",
     "color": "#2b4562",
     "id": "ALT",
-    "nnTotalPoints": 40,
+    "nnTotalPoints": 36,
     "percentOwned": null,
-    "pointsPerMillion": 6.666666666666667,
+    "pointsPerMillion": 6,
     "price": 6,
     "priceChange": 0.5,
     "qualifyingPosition": null,
@@ -2137,7 +2137,7 @@
     "sprintOvertakes": null,
     "sprintPosition": null,
     "sprintPositionsGained": null,
-    "totalPoints": 40,
+    "totalPoints": 36,
     "type": "constructor"
   },
   {

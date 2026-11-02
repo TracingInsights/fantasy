@@ -109,9 +109,9 @@
     "abbreviation": "ALT",
     "color": "#2b4562",
     "id": "ALT",
-    "nnTotalPoints": 40,
+    "nnTotalPoints": 36,
     "percentOwned": null,
-    "pointsPerMillion": 6.666666666666667,
+    "pointsPerMillion": 6,
     "price": 6,
     "priceChange": 0.5,
     "qualifyingPosition": null,
@@ -121,8 +121,8 @@
     "raceOvertakes": 27,
     "racePosition": null,
     "racePositionsGained": 8,
-    "sessionNnPoints": 5,
-    "sessionPoints": 5,
+    "sessionNnPoints": 1,
+    "sessionPoints": 1,
     "sessionResult": {
       "disqualifiedPoints": {
         "nnPoints": 0,
@@ -140,13 +140,13 @@
         "text": "Not Classified"
       },
       "teamworkPoints": {
-        "nnPoints": 5,
-        "points": 5,
-        "text": "One driver reached Q3"
+        "nnPoints": 1,
+        "points": 1,
+        "text": "One driver reached Q2"
       },
       "totalPoints": {
-        "nnPoints": 5,
-        "points": 5,
+        "nnPoints": 1,
+        "points": 1,
         "text": "Qualifying Points"
       }
     },
@@ -155,7 +155,7 @@
     "sprintOvertakes": null,
     "sprintPosition": null,
     "sprintPositionsGained": null,
-    "totalPoints": 40,
+    "totalPoints": 36,
     "type": "constructor"
   },
   {
