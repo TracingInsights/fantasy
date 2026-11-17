@@ -6,7 +6,7 @@
     "id": "ALP_COL",
     "isActive": true,
     "nnTotalPoints": 8,
-    "percentOwned": 0,
+    "percentOwned": 20,
     "pointsPerMillion": 0.7692307692307692,
     "price": 10.4,
     "priceChange": 0.6,
@@ -53,7 +53,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 8,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 1
   },
   {
     "abbreviation": "GAS",
@@ -62,7 +62,7 @@
     "id": "ALP_GAS",
     "isActive": true,
     "nnTotalPoints": 9,
-    "percentOwned": 0,
+    "percentOwned": 19,
     "pointsPerMillion": 0.6153846153846154,
     "price": 13,
     "priceChange": -0.2,
@@ -109,7 +109,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 8,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 1
   },
   {
     "abbreviation": "ALO",
@@ -118,7 +118,7 @@
     "id": "AST_ALO",
     "isActive": true,
     "nnTotalPoints": 5,
-    "percentOwned": 0,
+    "percentOwned": 7,
     "pointsPerMillion": 1,
     "price": 5,
     "priceChange": 0.6,
@@ -174,7 +174,7 @@
     "id": "AST_STR",
     "isActive": true,
     "nnTotalPoints": 1,
-    "percentOwned": 0,
+    "percentOwned": 3,
     "pointsPerMillion": -6.333333333333333,
     "price": 3,
     "priceChange": 0,
@@ -230,7 +230,7 @@
     "id": "AUD_BOR",
     "isActive": true,
     "nnTotalPoints": 8,
-    "percentOwned": 0,
+    "percentOwned": 34,
     "pointsPerMillion": 1.2121212121212122,
     "price": 6.6,
     "priceChange": 0.6,
@@ -286,7 +286,7 @@
     "id": "AUD_HUL",
     "isActive": true,
     "nnTotalPoints": 5,
-    "percentOwned": 0,
+    "percentOwned": 35,
     "pointsPerMillion": 1.3333333333333333,
     "price": 3,
     "priceChange": 0,
@@ -342,7 +342,7 @@
     "id": "CAD_BOT",
     "isActive": true,
     "nnTotalPoints": 2,
-    "percentOwned": 0,
+    "percentOwned": 21,
     "pointsPerMillion": 0.3333333333333333,
     "price": 3,
     "priceChange": 0,
@@ -398,7 +398,7 @@
     "id": "CAD_PER",
     "isActive": true,
     "nnTotalPoints": 3,
-    "percentOwned": 0,
+    "percentOwned": 18,
     "pointsPerMillion": -3.4,
     "price": 5,
     "priceChange": -0.6,
@@ -454,7 +454,7 @@
     "id": "FER_HAM",
     "isActive": true,
     "nnTotalPoints": 22,
-    "percentOwned": 0,
+    "percentOwned": 19,
     "pointsPerMillion": 0.8870967741935484,
     "price": 24.8,
     "priceChange": 0.1,
@@ -501,7 +501,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 22,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 9
   },
   {
     "abbreviation": "LEC",
@@ -510,7 +510,7 @@
     "id": "FER_LEC",
     "isActive": true,
     "nnTotalPoints": 39,
-    "percentOwned": 0,
+    "percentOwned": 26,
     "pointsPerMillion": 1.6738197424892702,
     "price": 23.3,
     "priceChange": 0.3,
@@ -557,7 +557,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 39,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 14
   },
   {
     "abbreviation": "BEA",
@@ -566,7 +566,7 @@
     "id": "HAA_BEA",
     "isActive": true,
     "nnTotalPoints": 8,
-    "percentOwned": 0,
+    "percentOwned": 52,
     "pointsPerMillion": 1.1111111111111112,
     "price": 7.2,
     "priceChange": 0.2,
@@ -613,7 +613,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 8,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 2
   },
   {
     "abbreviation": "OCO",
@@ -622,7 +622,7 @@
     "id": "HAA_OCO",
     "isActive": true,
     "nnTotalPoints": 7,
-    "percentOwned": 0,
+    "percentOwned": 13,
     "pointsPerMillion": 0.5825242718446602,
     "price": 10.3,
     "priceChange": 0.2,
@@ -678,7 +678,7 @@
     "id": "MCL_NOR",
     "isActive": true,
     "nnTotalPoints": 40,
-    "percentOwned": 0,
+    "percentOwned": 8,
     "pointsPerMillion": 1.556420233463035,
     "price": 25.7,
     "priceChange": 0.1,
@@ -725,7 +725,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 40,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 5
   },
   {
     "abbreviation": "PIA",
@@ -734,7 +734,7 @@
     "id": "MCL_PIA",
     "isActive": true,
     "nnTotalPoints": 19,
-    "percentOwned": 0,
+    "percentOwned": 9,
     "pointsPerMillion": 0.7661290322580645,
     "price": 24.8,
     "priceChange": -0.1,
@@ -781,7 +781,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 19,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 5
   },
   {
     "abbreviation": "ANT",
@@ -790,7 +790,7 @@
     "id": "MER_ANT",
     "isActive": true,
     "nnTotalPoints": 38,
-    "percentOwned": 0,
+    "percentOwned": 37,
     "pointsPerMillion": 1.5019762845849802,
     "price": 25.3,
     "priceChange": 0.3,
@@ -837,7 +837,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 38,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 26
   },
   {
     "abbreviation": "RUS",
@@ -846,7 +846,7 @@
     "id": "MER_RUS",
     "isActive": true,
     "nnTotalPoints": 9,
-    "percentOwned": 0,
+    "percentOwned": 22,
     "pointsPerMillion": -0.39145907473309605,
     "price": 28.1,
     "priceChange": -0.1,
@@ -893,7 +893,7 @@
     "sprintPositionsGained": null,
     "totalPoints": -11,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 17
   },
   {
     "abbreviation": "HAD",
@@ -902,7 +902,7 @@
     "id": "RED_HAD",
     "isActive": true,
     "nnTotalPoints": 38,
-    "percentOwned": 0,
+    "percentOwned": 31,
     "pointsPerMillion": 2.857142857142857,
     "price": 13.3,
     "priceChange": 0.6,
@@ -949,7 +949,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 38,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 3
   },
   {
     "abbreviation": "VER",
@@ -958,7 +958,7 @@
     "id": "RED_VER",
     "isActive": true,
     "nnTotalPoints": 27,
-    "percentOwned": 0,
+    "percentOwned": 17,
     "pointsPerMillion": 0.935251798561151,
     "price": 27.8,
     "priceChange": -0.1,
@@ -1005,7 +1005,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 26,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 13
   },
   {
     "abbreviation": "LAW",
@@ -1014,7 +1014,7 @@
     "id": "VRB_LAW",
     "isActive": true,
     "nnTotalPoints": 6,
-    "percentOwned": 0,
+    "percentOwned": 32,
     "pointsPerMillion": 0.3157894736842105,
     "price": 9.5,
     "priceChange": 0.2,
@@ -1070,7 +1070,7 @@
     "id": "VRB_LIN",
     "isActive": true,
     "nnTotalPoints": 7,
-    "percentOwned": 0,
+    "percentOwned": 45,
     "pointsPerMillion": 0.7352941176470589,
     "price": 6.8,
     "priceChange": 0.6,
@@ -1117,7 +1117,7 @@
     "sprintPositionsGained": null,
     "totalPoints": 5,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 1
   },
   {
     "abbreviation": "ALB",
@@ -1126,7 +1126,7 @@
     "id": "WIL_ALB",
     "isActive": true,
     "nnTotalPoints": 3,
-    "percentOwned": 0,
+    "percentOwned": 8,
     "pointsPerMillion": 0.42857142857142855,
     "price": 7,
     "priceChange": -0.6,
@@ -1182,7 +1182,7 @@
     "id": "WIL_SAI",
     "isActive": true,
     "nnTotalPoints": 10,
-    "percentOwned": 0,
+    "percentOwned": 23,
     "pointsPerMillion": 0.9259259259259258,
     "price": 10.8,
     "priceChange": -0.6,
@@ -1229,6 +1229,6 @@
     "sprintPositionsGained": null,
     "totalPoints": 10,
     "type": "driver",
-    "x2PercentOwned": 0
+    "x2PercentOwned": 1
   }
 ]
