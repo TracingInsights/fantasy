@@ -17,6 +17,7 @@ repo, using a scheduled GitHub Actions workflow.
 ```
 data/
 ├── raw/                                # full API responses, append-only history
+│   ├── index.json                       # per season: newest snapshot name + all snapshots
 │   └── 2025/
 │       ├── 2025-10-07T163000Z.json      # one file per sync run, only if data changed
 │       └── ...
@@ -62,6 +63,20 @@ https://cdn.jsdelivr.net/gh/TracingInsights/fantasy@main/data/transformed/2025/j
 # Pinned to a specific sync release
 https://cdn.jsdelivr.net/gh/TracingInsights/fantasy@data-sync-20251013-163000/data/transformed/2025/japanese-grand-prix/race_drivers.csv
 ```
+
+To find a season's newest raw snapshot, read `data/raw/index.json` at the
+release tag rather than listing the directory. jsDelivr refuses directory
+listings for this repo (`Package size exceeded the configured limit of 50 MB`)
+but serves single files at any size:
+
+```text
+https://cdn.jsdelivr.net/gh/TracingInsights/fantasy@<tag>/data/raw/index.json
+→ {"seasons": {"2026": {"latest": "2026-11-23T090619Z.json", "snapshots": [...]}, ...}}
+https://cdn.jsdelivr.net/gh/TracingInsights/fantasy@<tag>/data/raw/2026/2026-11-23T090619Z.json
+```
+
+The sync rewrites the index every run (same snapshots → same bytes, so it never
+causes a commit by itself).
 
 Releases are listed under
 [github.com/TracingInsights/fantasy/releases](https://github.com/TracingInsights/fantasy/releases).

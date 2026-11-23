@@ -51,6 +51,9 @@ jobs:
 
           ${SUMMARY}
 
+          Newest snapshot per season (no directory listing needed):
+          \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${TAG}/data/raw/index.json\`
+
           Fetch files via jsDelivr:
           - Latest on main: \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/<path>\`
           - This release: \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${TAG}/<path>\`" \

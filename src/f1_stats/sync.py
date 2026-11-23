@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -16,6 +17,8 @@ logger = logging.getLogger(__name__)
 
 RAW_DIR = "raw"
 TRANSFORMED_DIR = "transformed"
+INDEX_FILE = "index.json"
+SNAPSHOT_NAME = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{6}Z\.json$")
 
 
 def run_timestamp(now: datetime | None = None) -> str:
@@ -35,6 +38,27 @@ def latest_snapshot(raw_dir: Path, year: int) -> Path | None:
         return None
     files = sorted(year_dir.glob("*.json"))
     return files[-1] if files else None
+
+
+def write_index(raw_dir: Path) -> Path:
+    """Write `raw/index.json`: every season's snapshot names, newest as `latest`.
+
+    Consumers read it as one small file pinned to a release tag (jsDelivr and
+    the other CDNs serve single files at any size, but jsDelivr refuses
+    directory listings for repos over 50 MB). It lives beside the season
+    folders, never inside one, so `latest_snapshot` never mistakes it for a
+    snapshot. Same snapshots → same bytes, so an unchanged sync adds no diff.
+    """
+    seasons: dict[str, dict] = {}
+    if raw_dir.is_dir():
+        for year_dir in sorted(p for p in raw_dir.iterdir() if p.is_dir() and p.name.isdigit()):
+            names = sorted(p.name for p in year_dir.glob("*.json") if SNAPSHOT_NAME.match(p.name))
+            if names:
+                seasons[year_dir.name] = {"latest": names[-1], "snapshots": names}
+    path = raw_dir / INDEX_FILE
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps({"seasons": seasons}, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    return path
 
 
 @dataclass
@@ -81,7 +105,8 @@ def snapshot_year(payload: dict, raw_dir: Path, timestamp: str) -> YearResult:
 
 
 def sync(years: tuple[int, ...] | list[int], data_dir: Path) -> SyncResult:
-    """Run a full sync: fetch each year, snapshot (if changed), transform.
+    """Run a full sync: fetch each year, snapshot (if changed), transform,
+    then rewrite `raw/index.json`.
 
     Even when the raw payload is unchanged, the transformed tree is rebuilt so
     that transform-logic changes propagate; identical content produces no git
@@ -111,6 +136,7 @@ def sync(years: tuple[int, ...] | list[int], data_dir: Path) -> SyncResult:
             len(written),
         )
         time.sleep(0.5)  # be polite between season fetches
+    write_index(data_dir / RAW_DIR)
     return result
 
 
